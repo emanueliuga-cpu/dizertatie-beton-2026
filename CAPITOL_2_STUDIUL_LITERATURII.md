@@ -1,16 +1,22 @@
-# Capitolul 2: Studiul Literaturii de Specialitate
+# CAPITOLUL 2 FUNDAMENTE TEORETICE
 
-## 2.1 Rolul Cenușii Zburătoare în Tehnologia Betonului
-Cenușa zburătoare (Class F) este recunoscută pentru proprietățile sale pozzolanice, reacționând cu hidroxidul de calciu pentru a forma silicat de calciu hidrat (C-S-H) suplimentar. Această reacție duce la rafinarea structurii porilor, reducerea permeabilității și creșterea rezistenței pe termen lung. Studiile din 2025 (Baş et al.) indică faptul că un grad de înlocuire de 15-20% este optim pentru a balansa rezistența timpurie cu durabilitatea structurală.
+**2.1 Compoziția și structura betonului**
 
-## 2.2 Fibrele de Sticlă Rezistente la Alcali (AR-Glass)
-Spre deosebire de fibrele de sticlă standard (E-glass), fibrele AR-glass conțin zirconiu, ceea ce le permite să reziste mediului puternic alcalin al betonului. Cercetările recente confirmă că adăugarea fibrelor de sticlă crește rezistența la încovoiere cu până la 83% în cazul unui dozaj de 2% volumic. Acestea acționează ca punți de transfer al tensiunilor, limitând propagarea microfisurilor.
+Betonul este un material compozit obținut prin amestecarea, în proporții bine determinate, a unui liant hidraulic (ciment), a agregatelor minerale, a apei și a aditivilor. Din punct de vedere structural, betonul întărit este un sistem trifazic: matricea de piatră de ciment, agregatele și zona de tranziție interfacială (ITZ). Zona de tranziție reprezintă veriga slabă a sistemului, unde se inițiază microfisurile. Cenușa zburătoare densifică această zonă prin reacția puzzolanică, iar fibrele controlează propagarea fisurilor.
 
-## 2.3 Fibrele Polimerice (Polipropilena)
-Fibrele de polipropilenă (PP) sunt utilizate în principal pentru controlul fisurării din contracție plastică în primele ore de la turnare. Micro-fibrele PP (0.1-0.2% vol) reduc tensiunile capilare, în timp ce macro-fibrele polimerice contribuie la rezistența post-fisurare și la absorbția de energie sub sarcini dinamice (impactul traficului).
+**2.2 Hidratarea cimentului Portland**
 
-## 2.4 Sisteme Hibride și Sinergia Materialelor (Trenduri 2026)
-Cele mai noi specificații tehnice (VTRC 25-R13, 2025) promovează utilizarea sistemelor hibride. Combinația dintre micro-fibrele PP (pentru contracție plastică) și macro-fibrele de sticlă (pentru rezistență structurală), integrate într-o matrice cu cenușă zburătoare, oferă cea mai bună performanță. Această abordare permite reducerea grosimii plăcilor de beton rutier cu până la 15-20% fără a compromite siguranța, fiind o soluție sustenabilă adoptată deja în proiectele de infrastructură portuară și poduri urbane.
+Cimentul Portland reacționează cu apa formând gelul C-S-H (țesutul de rezistență) și portlanditul (CH). Contracția plastică în primele ore este principalul pericol pentru suprafețele mari (drumuri), fenomen controlat eficient de microfibrele de polipropilenă.
 
-## 2.5 Concluzii Literatură
-Analiza literaturii subliniază că tranziția către betoanele compozite hibride este esențială pentru infrastructura modernă. Totuși, optimizarea dozajelor rămâne o provocare, necesitând studii experimentale riguroase pentru a evita scăderea lucrabilității amestecului proaspăt.
+**2.3 Cenușa zburătoare: mecanism de acțiune**
+
+Utilizăm cenușă de Clasa F (pozzolanică). Reacția puzzolanică consumă portlanditul vulnerabil și generează C-S-H secundar, rafinând porii capilari. Efectul de "rulment" al particulelor sferice îmbunătățește lucrabilitatea.
+
+**2.4 Fibre de sticlă AR și Fibre de polipropilenă**
+
+- **AR-Glass:** Conțin zirconiu pentru rezistență în mediul alcalin. Modul de elasticitate ridicat (72 GPa) crește rezistența la încovoiere.
+- **Polipropilenă:** Modul scăzut, esențiale pentru controlul fisurării plastice timpurii.
+
+**2.5 Sinergia și Durabilitatea**
+
+Combinarea celor trei componente (Cenușă + Sticlă + PP) permite un răspuns mecanic echilibrat. Cenușa reduce alcalinitatea, prelungind viața fibrelor de sticlă, în timp ce fibrele mențin fisurile închise, blocând pătrunderea sărurilor de degivrare.
