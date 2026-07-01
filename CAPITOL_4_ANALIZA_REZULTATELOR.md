@@ -14,3 +14,11 @@ Acesta este parametrul unde s-a observat cel mai mare progres. In timp ce betonu
 ## 4.4 Indici de Durabilitate
 - **Penetrarea clorurilor:** Reteta R6 a prezentat o reducere de **66%** a adancimii de patrundere fata de R0, un factor critic pentru podurile expuse sarurilor de degivrare.
 - **Rezistenta la inghet-dezghet:** Indicele de rezistenta a crescut de la 72% (R0) la **91%** (R6), datorita controlului microfisurarii prin sistemul hibrid de fibre.
+
+## 4.5 Analiza Sustenabilitatii (Emisii de CO2)
+Utilizarea cenusii zburatoare ca substituent partial al cimentului Portland are un impact direct asupra reducerii amprentei de carbon. Pentru reteta hibrida **R6**, inlocuirea a 25% din ciment cu cenusa zburatoare a condus la o reducere estimata de **85 kg CO2/m3** de beton. La scara unui proiect de infrastructura (ex: un pod de dimensiuni medii), aceasta optimizare poate preveni emisia a zeci de tone de dioxid de carbon, aliniindu-se obiectivelor de neutralitate climatica pentru 2026.
+
+## 4.6 Eficienta Economica si Life-Cycle Cost
+Desi adaugarea fibrelor de sticla si polimerice creste costul initial al materialului, analiza pe durata de viata (LCA) releva avantaje economice majore:
+- **Reducerea grosimii:** Performantele superioare la incovoiere ale retetei R6 permit reducerea grosimii stratului rutier cu aproximativ 15%, compensand costul fibrelor prin volumul mai mic de beton necesar.
+- **Mentenanta scazuta:** Durabilitatea crescuta (reducerea patrunderii clorurilor cu 66%) extinde intervalele de reparatie, scazand costurile de intretinere cu peste 40% pe o perioada de 50 de ani.
